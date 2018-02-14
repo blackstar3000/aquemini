@@ -1,0 +1,24 @@
+<dir>
+  <title>Artist Chart</title>
+  <lastfm>chart/artists</lastfm>
+  <thumbnail>http://musicfibre.com/wp-content/uploads/2016/11/musiclogos.png</thumbnail>
+  <fanart>http://householdairfresheners.com/wp-content/uploads/2017/02/Best-Music-Artist-Logo-Design-31-For-logo-design-with-Music-Artist-Logo-Design.jpg</fanart>
+</dir>
+<dir>
+  <title>Tag Chart</title>
+  <lastfm>chart/tags</lastfm>
+  <thumbnail>http://musicfibre.com/wp-content/uploads/2016/11/musiclogos.png</thumbnail>
+  <fanart>http://householdairfresheners.com/wp-content/uploads/2017/02/Best-Music-Artist-Logo-Design-31-For-logo-design-with-Music-Artist-Logo-Design.jpg</fanart>
+</dir>
+<dir>
+  <title>Rap Artists</title>
+  <lastfm>tag/rap/artists</lastfm>
+</dir>
+<dir>
+  <title>Rap Albums</title>
+  <lastfm>tag/rap/albums</lastfm>
+</dir>
+<dir>
+  <title>Search</title>
+  <lastfm>search/artists</lastfm>
+</dir>

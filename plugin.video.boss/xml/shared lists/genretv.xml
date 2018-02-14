@@ -1,0 +1,287 @@
+#############################  tv Collections ##################################
+<dir>
+      <title>****************Boss Tv Genres*****************</title>
+    
+      <link></link> 
+          
+      <thumbnail></thumbnail>
+          
+          
+      <fanart></fanart>
+        
+      <summary></summary>
+
+</dir>
+<dir>
+        <title>[COLOR=gold]Action & Adventure[/COLOR]</title>
+
+        <tmdb>genre/shows/10759</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Action tv</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Animation[/COLOR]</title>
+
+        <tmdb>genre/shows/16</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Animation</summary>
+
+</dir>
+
+
+<dir>
+        <title>[COLOR=gold]Comedy[/COLOR]</title>
+
+        <tmdb>genre/shows/35</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Comedy</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Crime[/COLOR]</title>
+
+        <tmdb>genre/shows/80</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Crime</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Documentary[/COLOR]</title>
+
+        <tmdb>genre/shows/99</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Documentary</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Drama[/COLOR]</title>
+
+        <tmdb>genre/shows/18</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Drama</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Family[/COLOR]</title>
+
+        <tmdb>genre/shows/10751</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Family</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Kids[/COLOR]</title>
+
+        <tmdb>genre/shows/10762</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Kids</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Mystery[/COLOR]</title>
+
+        <tmdb>genre/shows/9648</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Mystery</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]News[/COLOR]</title>
+
+        <tmdb>genre/shows/10763</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>News</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Reality[/COLOR]</title>
+
+        <tmdb>genre/shows/10764</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Reality</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Sci-Fi & Fantasy[/COLOR]</title>
+
+        <tmdb>genre/shows/10765</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Sci-Fi & Fantasy</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Soap[/COLOR]</title>
+
+        <tmdb>genre/shows/10766</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Soap</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Talk[/COLOR]</title>
+
+        <tmdb>genre/shows/10767</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Talk</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]War & Politics[/COLOR]</title>
+
+        <tmdb>genre/shows/10768</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>War & Politics</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Western[/COLOR]</title>
+
+        <tmdb>genre/shows/37</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Western</summary>
+
+</dir>
+

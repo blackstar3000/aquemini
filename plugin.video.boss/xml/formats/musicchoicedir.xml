@@ -1,0 +1,63 @@
+<dir>
+        <name>[COLOR=gold]Music Choice Music 24/7[/COLOR]</name>
+
+        <link>file://formats/music choice.xml</link>
+          
+          
+        <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+          
+          
+        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        
+	<summary>Listen to Ad-Free Music 24/7</summary>
+
+</dir>
+
+<dir>
+        <name>[COLOR=gold]Music Choice Music Videos 24/7[/COLOR]</name>
+
+        <link>file://formats/music choice videos.xml</link>
+          
+          
+        <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+          
+          
+        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        
+	<summary>Watch Ad-Free Music Videos 24/7</summary>
+
+</dir>
+
+<dir>
+        <name>[COLOR=gold]Last.Fm[/COLOR]</name>
+
+        <link>file://formats/last.fmdir.xml</link>
+          
+          
+        <thumbnail>http://i1-news.softpedia-static.com/images/news2/data-of-43-million-users-stolen-during-2012-last-fm-data-breach-507830-3.jpg</thumbnail>
+          
+          
+        <fanart>https://pbs.twimg.com/media/DRFLTe5VQAIoRkA.jpg</fanart>
+        
+	<summary>Last.fm is a music website, founded in the United Kingdom in 2002. Using a music recommender system called "Audioscrobbler", Last.fm builds a detailed profile of each user's musical taste by recording details of the tracks the user listens to, either from Internet radio stations, or the user's computer or many portable music devices. This information is transferred ("scrobbled") to Last.fm's database either via the music player itself (including, among others Spotify, Deezer, Tidal, and MusicBee) or via a plugin installed into the user's music player. The data is then displayed on the user's profile page and compiled to create reference pages for individual artists.
+
+On 30 May 2007, it was acquired by CBS Interactive for UK£140 million (US$280 million).[3]
+
+The site formerly offered a radio streaming service, which was discontinued on 28 April 2014.[4] The ability to access the large catalogue of music stored on the site was later removed entirely, replaced by links to YouTube and Spotify where available.</summary>
+
+</dir>
+
+<dir>
+        <name>[COLOR=gold]Live Concerts[/COLOR]</name>
+
+        <link>file://formats/concerts.xml</link>
+          
+          
+        <thumbnail></thumbnail>
+          
+          
+        <fanart></fanart>
+        
+	<summary></summary>
+
+</dir>

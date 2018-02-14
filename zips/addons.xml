@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.boss" name="[COLOR=gold]BOSS[/COLOR]" version="1.9" provider-name="BOSS,midraal">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.resolveurl" version="5.0.06" optional="true" />
+		<import addon="script.module.urlresolver.xxx"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Like A [COLOR=gold]BOSS![/COLOR] Boss Movies,Tv Shows, Kids And much more...</summary>
+        <description lang="en">Like A [COLOR=gold]BOSS![/COLOR]Powered BY Jen</description>
+		<disclaimer lang="en">[COLOR=red]I Do Not OWN or Host Any Content Found in this Addon[/COLOR]</disclaimer>
+        <platform>all</platform>
+        <assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>V1.5</news>
+        <website>www.noobsandnerds.com</website>
+        <video_guide>xtOqLY5PJDY</video_guide>
+    </extension>
+</addon>
+
+<addon id="plugin.video.ghettotube"
+       name="[COLOR=red]Ghetto[COLOR=blue]tube[/COLOR] (Adult)"
+       version="1.1"
+       provider-name="Black$tar">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Thousands of Free Streaming Porn videos! Updated every day. Ghetto Tube is the youtube of free porn.</summary>
+    <description>Thousands of Free Streaming Porn videos! Updated every day. Ghetto Tube is the youtube of free porn.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.thespot" name="[COLOR=blue]The[COLOR=red] Spot[/COLOR]" version="1.1.1" provider-name="Black$tar">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.addon.common" version="2.0.0"/>
+        <import addon="plugin.video.youtube" version="5.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Check out the latest films and trailers featuring the best in independent film.</summary>
+        <description lang="en">Your Movies. Your Way.</description>
+        <platform>all</platform>
+        <website></website>
+        <source>https://mykodirepo20.000webhostapp.com/kodirepo/</source>
+    </extension>
+</addon>
+
+<addon id="plugin.video.twerktube" name="Twerk Tube" version="1.1.3" provider-name="Black$tar">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.addon.common" version="2.0.0"/>
+        <import addon="plugin.video.youtube" version="5.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Best Twerk Videos On Youtube</summary>
+        <description lang="en">Watch The Best Big Booty Twerk Videos From Youtube.</description>
+        <platform>all</platform>
+        <website></website>
+        <source>https://mykodirepo20.000webhostapp.com/kodirepo/</source>
+    </extension>
+</addon>
+
+<addon id="repository.aquemini" name="[COLOR=gold]Aquemini[/COLOR]" version="0.0.1" provider-name="[COLOR=gold]Boss[/COLOR]">
+	<extension point="xbmc.addon.repository" name="Aquemini">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Aquemini</summary>
+		<description lang="en">Aquemini Or You An OutKast...</description>
+		<genre>movies,music</genre>
+	</extension>
+</addon>
+</addons>

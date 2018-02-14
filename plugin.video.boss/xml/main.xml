@@ -1,0 +1,159 @@
+  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  ################################ MAIN ##########################################
+  <poster>http://www.onelifetolive.ga/Scraper/Icons/poster.jpg</poster>
+  ################################################################################
+
+  <xml>
+  <dir>
+          <title>[COLORgold]Movies[/COLOR]</title>
+
+          <link>file://shared lists/movies.xml</link>
+            
+          <animated_thumbnail></animated_thumbnail>
+            
+          <thumbnail>https://bytebucket.org/blackstar3000/repository.makaveli/raw/7dc90deda4d1c319132ad17a0619f0dde7a2bf34/images/movies.jpg?token=2784d9551675654d09f12b76f0ef91f16f5d8e39</thumbnail>
+            
+          <animated_fanart></animated_fanart>
+            
+          <fanart></fanart>
+  		
+  		<summary>Watch The Latest Movies </summary>
+
+  </dir>
+
+
+  <dir>
+          <title>[COLORgold]TV Shows[/COLOR]</title>
+
+          <link>file://shared lists/TV Show dir.xml</link>
+            
+          <animated_thumbnail></animated_thumbnail>
+            
+          <thumbnail>https://bytebucket.org/blackstar3000/repository.makaveli/raw/6fee43fba5259827af80486abae234c8c30f4310/images/Tv-Shows.png?token=18781d8bc70907dca02c932d701d8a3576e6c87f</thumbnail>
+            
+          <animated_fanart></animated_fanart>
+            
+          <fanart>https://www.quirkybyte.com/wp-content/uploads/2015/09/best-rated-tv-series.jpg</fanart>
+          
+  		<summary>Watch The Latest TV Shows</summary>
+
+  </dir>
+
+  <dir>
+          <title>[COLOR=gold]Kids[/COLOR]</title>
+
+          <link>file://shared lists/kids.xml</link>
+            
+          <animated_thumbnail></animated_thumbnail>
+            
+          <thumbnail>https://raw.githubusercontent.com/blackstar3000/repository.makaveli/master/images/kids.jpg</thumbnail>
+            
+          <animated_fanart></animated_fanart>
+            
+          <fanart>https://raw.githubusercontent.com/blackstar3000/repository.makaveli/master/images/kidsbackdrop.jpg</fanart>
+          
+  		<summary>Movies For Kids</summary>
+
+  </dir>
+
+  <dir>
+      <name>[COLOR=gold]Screeners[/COLOR]</name>
+      <link>file://shared lists/oneclickdir.xml</link>
+      <animated_thumbnail></animated_thumbnail>
+      <thumbnail>https://bytebucket.org/blackstar3000/repository.makaveli/raw/03603131cc6e0146f671004ded8a5531491e0fd0/images/Screeners.jpg?token=7ccb2f1b0671da2d91719e28ba623543d9439a78</thumbnail>
+      <animated_fanart></animated_fanart>
+      <fanart>https://raw.githubusercontent.com/blackstar3000/repository.makaveli/master/images/screenersbackdrop.jpeg</fanart>
+      <summary>HD Direct Link Movies</summary>
+  </dir>
+
+  <dir>
+          <name>[COLOR=gold]Grown Folks[/COLOR] [COLOR=blue]Enter[/COLOR]</name>
+
+          <link>file://xxx/xxx.xml</link>
+            
+            
+          <thumbnail></thumbnail>
+            
+            
+          <fanart></fanart>
+          
+  		<summary>[COLOR=red]Adult Section No Kids Allowed[/COLOR]</summary>
+
+  </dir>
+
+  <dir>
+          <name>[COLOR=gold]Music Choice[/COLOR]</name>
+
+          <link>file://formats/musicchoicedir.xml</link>
+            
+            
+          <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+            
+            
+          <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+          
+  		<summary>Listen to Ad-Free Music 24/7/Watch Ad-Free Music Videos 24/7</summary>
+
+  </dir>
+
+  <dir>
+        <name>[COLOR=gold]Live TV[/COLOR]</name>
+        <link>file://formats/livedir.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://bsnscb.com/data/out/197/39264941-tire-hd-wallpapers.jpeg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>http://www.rmz-me.com/wp-content/uploads/2017/12/tv-room-design-modern-family-ideas-on-budget-decorating-custom-home-wall-cabinet-with-hd-resolution-pinterest-in-living-fireplace-layout-interior.jpg</fanart>
+  	  <summary>Live Streams from different sources</summary>
+  </dir>
+
+
+  <plugin>
+  <name>Settings</name>
+  <link>plugin://plugin.video.boss/?action=openSettings</link>
+  <thumbnail>https://raw.githubusercontent.com/blackstar3000/repository.makaveli/master/images/settings.jpg</thumbnail>
+  <fanart>https://raw.githubusercontent.com/blackstar3000/repository.makaveli/master/images/settingsbackdrop.jpg</fanart>
+  <summary>Settings for Boss Add-on</summary>
+  </plugin>
+
+    <dir>
+      <title>Search</title>
+      <link>file://shared lists/search.xml</link>
+      <thumbnail>https://cdn.shopify.com/s/files/1/2146/5589/files/Boss_Dreams_2_2_400x.jpg?v=1498954309</thumbnail>
+      <summary>Search Trakt And TMDB</summary>
+    </dir>
+
+  <dir>
+        <title>[COLOR=gold]Trakt[/COLOR]</title>
+        <link>file://formats/Trakt.tv.xml</link>
+  	  <thumbnail>https://trakt.tv/assets/logos/header@2x-56e5ba415108fa367fd64e5b5df9d0c5.png</thumbnail>
+  	  <summary>Link Your Trakt Account</summary>
+  </dir>
+
+  <dir>
+        <title>[COLOR=gold]IMDB[/COLOR]</title>
+        <link>file://shared lists/IMDB.xml</link>
+  	  <thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+  	  <summary>Everything IMDB</summary>
+  </dir>
+
+  <dir>
+        <title>_________________________________________________________</title>
+      
+        <link></link> 
+            
+        <thumbnail></thumbnail>
+            
+            
+        <fanart></fanart>
+          
+        <summary></summary>
+  </dir>
+  <plugin>
+  <name>Testings</name>
+  <link>plugin://plugin.video.boss/?action=developer</link>
+  <thumbnail></thumbnail>
+  </plugin>
+  </xml>
+
+
+

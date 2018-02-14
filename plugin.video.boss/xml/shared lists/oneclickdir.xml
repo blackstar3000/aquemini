@@ -1,0 +1,31 @@
+<dir>
+      <title>New Releases</title>
+      <link>file://shared lists/New Releases.xml</link>
+	  <thumbnail></thumbnail>
+	  <fanart></fanart>
+	  <summary></summary>
+</dir>
+
+<dir>
+      <title>Screeners</title>
+      <link>file://shared lists/Screeners.xml</link>
+	  <thumbnail></thumbnail>
+	  <fanart></fanart>
+	  <summary></summary>
+</dir>
+
+<dir>
+      <title>Cams</title>
+      <link>file://shared lists/CAMS.xml</link>
+	  <thumbnail></thumbnail>
+	  <fanart></fanart>
+	  <summary></summary>
+</dir>
+
+<dir>
+      <title>Boss List</title>
+      <link>file://shared lists/BOSS.xml</link>
+	  <thumbnail></thumbnail>
+	  <fanart></fanart>
+	  <summary></summary>
+</dir>

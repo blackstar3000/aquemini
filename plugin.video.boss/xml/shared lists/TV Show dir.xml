@@ -1,0 +1,167 @@
+####################################################################
+                       TV Dir.
+#####################################################################
+
+<dir>
+      <title>****************Boss Tv Shows*****************</title>
+    
+      <link></link> 
+          
+      <thumbnail></thumbnail>
+          
+          
+      <fanart></fanart>
+        
+      <summary></summary>
+
+</dir>
+
+    <dir>
+      <title>[COLOR=gold]**The Most Anticipated**[/COLOR]</title>
+      <trakt>https://api.trakt.tv/shows/anticipated</trakt>
+	  <thumbnail></thumbnail>
+	  <fanart></fanart>
+	  <summary>The most anticipated TV shows based on the number of lists a show appears on.</summary>
+    </dir>
+
+<dir>
+      <title>[COLOR=gold]**What's Trending**[/COLOR]</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+
+
+<dir>
+        <title>[COLOR=gold]Popular TV[/COLOR]</title>
+
+        <tmdb>tv/popular</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Most Popular TV</summary>
+
+</dir>
+
+
+<dir>
+        <title>[COLOR=gold]Top Rated TV[/COLOR]</title>
+
+        <tmdb>tv/top_rated</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Top Rated TV</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=black]B[/COLOR][COLOR=gold]lack Entertainment Tv[/COLOR]</title>
+
+        <tmdb>list/41190</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Lists that rank the top movies, TV series, and other media about and featuring black characters and culture.</summary>
+
+</dir>
+
+
+
+<dir>
+        <title>[COLOR=gold]Airing Today[/COLOR]</title>
+
+        <tmdb>tv/today</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Today</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]On The Air[/COLOR]</title>
+
+        <tmdb>tv/on_the_air</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Currently Airing TV Shows</summary>
+
+</dir>
+
+<dir>
+      <title>[COLOR=gold]People Watching[/COLOR]</title>
+      <trakt>https://api.trakt.tv/shows/watched/weekly</trakt>
+</dir>
+
+
+
+
+<dir>
+        <title>[COLOR=gold]Shows By Network[/COLOR]</title>
+
+        <link>file://shared lists/tvnetworks.xml</link>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+        
+		<summary>Shows By Network</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Shows By Genre[/COLOR]</title>
+
+        <link>file://shared lists/genretv.xml</link>
+          
+          
+        <thumbnail></thumbnail>
+          
+          
+        <fanart>http://p.motionelements.com/stock-video/arts/me1654173-movie-genres-related-words-background-loop-hd-a0005.jpg</fanart>
+        
+		<summary>Movies Genre</summary>
+
+</dir>
+
+  <dir>
+    <title>Search</title>
+    <link>file://shared lists/search.xml</link>
+    <thumbnail>https://cdn.shopify.com/s/files/1/2146/5589/files/Boss_Dreams_2_2_400x.jpg?v=1498954309</thumbnail>
+    <summary>Search Trakt And TMDB</summary>
+  </dir>

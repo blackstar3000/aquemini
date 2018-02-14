@@ -1,0 +1,61 @@
+<dir>
+        <title>[COLOR=gold]DOCUMENTARY[/COLOR]</title>
+
+        <link>file://formats/DOCUMENTARY.xml</link>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpY3vCvpOlVILtO_mQXPml1Qv2JRl_K4KddtY1w0oR52a2BYwj</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart>http://static1.squarespace.com/static/54d0281ae4b0a2c1725b6c23/t/569c721b3b0be35eb459e2f8/1501356170890/</fanart>
+		
+		<summary>DOCUMENTARY</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Hood Flicks[/COLOR]</title>
+
+        <tmdb>list/39048</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3kUlRe9Za634D7kwVpiE646SdfzRIl2B5kG51Z3Zq3kCYpMmRw</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart>https://media2.fdncms.com/styleweekly/imager/u/original/2401452/boyz_hood.jpg</fanart>
+		
+		<summary>Hood Movies</summary>
+
+</dir>
+
+<dir>
+        <name>[COLOR=gold]TrapFlix & Chill[/COLOR]</name>
+
+        <link>file://formats/TrapFlix amp Chill.xml</link>
+          
+          
+        <thumbnail>https://i.ytimg.com/vi/olcB1Dr-aZs/mqdefault.jpg</thumbnail>
+          
+          
+        <fanart>https://res.cloudinary.com/hhberclba/image/upload/v1451979921/hiktjcynr4znijq3qqkn.jpg</fanart>
+        
+        <summary>HOT Urban Movies</summary>
+</dir>
+<plugin>
+        <title>[COLOR=gold]Boss Playlist[/COLOR]</title>
+
+        <link>plugin://plugin.video.youtube/playlist/PLEfIGLCx7CGHt1g9uKORaORoaQvQUE8yH/</link>
+          
+          
+        <thumbnail>http://www.mixtapetorrent.com/system/files/streetsiswatchingswishahouse.jpg</thumbnail>
+          
+          
+        <fanart>https://res.cloudinary.com/hhberclba/image/upload/v1451979921/hiktjcynr4znijq3qqkn.jpg</fanart>
+        
+        <summary></summary>
+
+</plugin>

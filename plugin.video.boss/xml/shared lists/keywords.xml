@@ -1,0 +1,185 @@
+#############################  Keywords ################################
+<xml>
+<dir>
+      <title>****************Boss Keywords*****************</title>
+    
+      <link></link> 
+          
+      <thumbnail></thumbnail>
+          
+          
+      <fanart></fanart>
+        
+      <summary></summary>
+
+</dir>
+
+<dir>
+        <title>Based on Comics</title>
+
+        <tmdb>keyword/movies/9717</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Comics</summary>
+
+</dir>
+
+<dir>
+        <title>Based on True-Events</title>
+
+        <tmdb>keyword/movies/185722</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Comics</summary>
+
+</dir>
+
+<dir>
+        <title>Blaxploitation </title>
+
+        <tmdb>keyword/movies/10601</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Blaxploitation </summary>
+
+</dir>
+
+<dir>
+        <title>Gangster</title>
+
+        <tmdb>keyword/movies/3149</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Gangster</summary>
+
+</dir>
+
+<dir>
+        <title>Ghetto</title>
+
+        <tmdb>keyword/movies/2394</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Ghetto</summary>
+
+</dir>
+
+<dir>
+        <title>Fugitive </title>
+
+        <tmdb>keyword/movies/10718</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Fugitive </summary>
+
+</dir>
+
+<dir>
+        <title>Murder</title>
+
+        <tmdb>keyword/movies/9826</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Murder</summary>
+
+</dir>
+
+<dir>
+        <title>Sports</title>
+
+        <tmdb>keyword/movies/6075</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Sport </summary>
+
+</dir>
+<dir>
+        <title>Sports</title>
+
+        <tmdb>keyword/movies/6075</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on Sport </summary>
+
+</dir>
+
+<dir>
+        <title>True Crime</title>
+
+        <tmdb>keyword/movies/33722</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Movies Based on True Crime</summary>
+
+</dir>
+</xml>

@@ -1,0 +1,60 @@
+<dir>
+      <title>****************Boss IMDB*****************</title>
+    
+      <link></link> 
+          
+      <thumbnail></thumbnail>
+          
+          
+      <fanart></fanart>
+        
+      <summary>Top 250 as rated by IMDb Users</summary>
+
+</dir>
+
+<!-- ### REPLACED ALL movies/  TOO  chart/ ###
+- <imdburl>chart/moviemeter</imdburl> 		    # Popular Movies
+- <imdburl>chart/top</imdburl>			        # Top Rated Movies
+- <imdburl>chart/top-english-movies</imdburl> 	# Top English Movies
+- <imdburl>chart/bottom</imdburl>		        # Lowest Rated Movies
+
+
+
+### REPLACED ALL tvshows/   TOO  charttv/ ###
+- <imdburl>charttv/tvmeter</imdburl>			# Popular TV Shows
+- <imdburl>charttv/toptv</imdburl>			    # Top Rated TV Shows -->
+
+<dir>
+		<title>Top Rated Movies</title>
+		<imdburl>chart/top</imdburl>
+		<thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+		<summary>Trending movies</summary>
+</dir>
+
+	<dir>
+		<title>Popular TV Shows</title>
+		<imdburl>charttv/tvmeter</imdburl>
+		<thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+	</dir>
+	
+		<dir>
+		<title>Popular TV Shows</title>
+		<imdburl>Top Rated TV Shows</imdburl>
+		<thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+	</dir>
+
+
+	<dir>
+		<title>IMDB TOP 100 Gangster List</title>
+		<imdburl>list/ls001818278</imdburl>
+		<thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+		<summary>IMDB TOP 100 Gangster</summary>
+	</dir>
+	
+		<dir>
+		<title>IMDB test</title>
+		<imdburl>name/nm1152968</imdburl>
+		<thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+		<summary>IMDB TOP 100 Gangster</summary>
+	</dir>
+

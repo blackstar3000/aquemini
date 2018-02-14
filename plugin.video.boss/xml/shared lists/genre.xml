@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+################################ Genres ##########################################
+<poster>https://mykodirepo20.000webhostapp.com/Scraper/Icons/poster.jpg</poster>
+################################################################################
+
+<dir>
+      <title>****************Boss Genres*****************</title>
+    
+      <link></link> 
+          
+      <thumbnail></thumbnail>
+          
+          
+      <fanart></fanart>
+        
+      <summary></summary>
+
+</dir>
+
+
+
+<dir>
+        <title>Action</title>
+
+        <tmdb>genre/movies/28</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Action-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Action Movies</summary>
+
+</dir>
+
+<dir>
+        <title>Adventure</title>
+
+        <tmdb>genre/movies/12</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Adventure-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Adventure</summary>
+
+</dir>
+
+<dir>
+        <title>Animation</title>
+
+        <tmdb>genre/movies/16</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Animated-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Animation</summary>
+
+</dir>
+
+<dir>
+        <title>Comedy</title>
+
+        <tmdb>genre/movies/35</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Comedy-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Comedy</summary>
+
+</dir>
+
+<dir>
+        <title>Crime</title>
+
+        <tmdb>genre/movies/80</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Crime-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Crime</summary>
+
+</dir>
+
+<dir>
+        <title>Documentary</title>
+
+        <tmdb>genre/movies/99</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Documentaries-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Documentary</summary>
+
+</dir>
+
+<dir>
+        <title>Drama</title>
+
+        <tmdb>genre/movies/18</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Drama</summary>
+
+</dir>
+
+<dir>
+        <title>Family</title>
+
+        <tmdb>genre/movies/10751</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Family-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Family</summary>
+
+</dir>
+
+<dir>
+        <title>Fantasy</title>
+
+        <tmdb>genre/movies/14</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Fantasy-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Fantasy</summary>
+
+</dir>
+
+<dir>
+        <title>History</title>
+
+        <tmdb>genre/movies/36</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Historic-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>History</summary>
+
+</dir>
+
+<dir>
+        <title>Horror</title>
+
+        <tmdb>genre/movies/27</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Horror-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Horror</summary>
+
+</dir>
+
+<dir>
+        <title>Music</title>
+
+        <tmdb>genre/movies/10402</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Musical-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Music</summary>
+
+</dir>
+
+<dir>
+        <title>Mystery</title>
+
+        <tmdb>genre/movies/9648</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Mystery-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Mystery</summary>
+
+</dir>
+
+<dir>
+        <title>Romance</title>
+
+        <tmdb>genre/movies/10749</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Romantic-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Romance</summary>
+
+</dir>
+
+<dir>
+        <title>Science Fiction</title>
+
+        <tmdb>genre/movies/878</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/SciFi-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Science Fiction</summary>
+
+</dir>
+
+<dir>
+        <title>TV Movie</title>
+
+        <tmdb>genre/movies/10770</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Short-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>TV Movie</summary>
+
+</dir>
+
+<dir>
+        <title>Thriller</title>
+
+        <tmdb>genre/movies/53</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Thriller-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Thriller</summary>
+
+</dir>
+
+<dir>
+        <title>War</title>
+
+        <tmdb>genre/movies/10752</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/War-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>War</summary>
+
+</dir>
+
+<dir>
+        <title>Western</title>
+
+        <tmdb>genre/movies/37</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Western-icon.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Western</summary>
+
+</dir>
+
+
+

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+################################ KIDS ##########################################
+<poster>https://mykodirepo20.000webhostapp.com/Scraper/Icons/poster.jpg</poster>
+################################################################################
+
+<xml>
+<dir>
+      <title>****************Boss Kids*****************</title>
+    
+      <link></link> 
+          
+      <thumbnail></thumbnail>
+          
+          
+      <fanart></fanart>
+        
+      <summary></summary>
+
+</dir>
+
+<dir>
+      <title></title>
+    
+      <link></link> 
+          
+      <thumbnail></thumbnail>
+          
+          
+      <fanart></fanart>
+        
+      <summary></summary>
+
+</dir>
+
+
+
+<dir>
+        <title>Alienstream Kids</title>
+
+        <trakt>https://api.trakt.tv/users/alienstream/lists/</trakt>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://conceptlogos.co.uk/wp-content/uploads/edd/2018/01/alienstramlogodesign_01.jpg</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart>http://scontent-lhr3-1.cdninstagram.com/vp/032472cbbcb9c8b8065bdeacc6ff855e/5AE58CE9/t51.2885-15/s640x640/sh0.08/e35/26067592_1545420832202377_2471895490078179328_n.jpg</fanart>
+		
+		<summary>Alienstream Movies</summary>
+
+</dir>
+
+
+
+<dir>
+        <title>Animation</title>
+
+        <tmdb>genre/movies/16</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://www.qygjxz.com/data/out/10/6188444-animation-pictures.gif</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart>https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/featured/1030870-china-launching-probe-dreamworks-animation-comcast-sale.jpg?itok=JzjAZuOl</fanart>
+		
+		<summary>Animation</summary>
+
+</dir>
+
+<dir>
+        <title>Boss - Animation Movies</title>
+
+        <tmdb>list/330</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://incarnateict.com/wp-content/uploads/2017/07/animation.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart>https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/large_featured/public/image/featured/1044492-nick-park-goes-neanderthal-aardmans-early-man.jpg?itok=TRbHUHcL</fanart>
+		
+		<summary>Stop-motion movies, animated movies, etc. but not Anime</summary>
+
+</dir>
+
+<dir>
+    <name>Boxsets</name>
+ 
+    <link>file://formats/kids boxsets.xml</link>
+          
+          
+    <thumbnail>https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-d/boxsets-logo-colour.png</thumbnail>
+          
+          
+    <fanart>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi-xsLQ7-rYAhVMXKwKHXcoAx4QjRwIBw&url=http%3A%2F%2Fcarinapilar.com%2Feua-aupair%2Fconhecendo-os-eua%2Fdisney%2F&psig=AOvVaw0cgEKPkMPv1ToXN6vpeT1-&ust=1516686271615334</fanart>
+        
+    <summary></summary>
+ 
+</dir>
+
+<dir>
+        <title>Cartoons</title>
+
+        <trakt>https://api.trakt.tv/users/samuel-spink/lists/</trakt>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail>http://clipart.info/images/ccovers/1495749349batman-hd-cartoon-clipart-png.png</thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Cartoons</summary>
+
+</dir>
+
+<dir>
+        <title>Cartoon Network</title>
+
+        <tmdb>network/shows/56</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Cartoon Network</summary>
+
+</dir>
+
+
+
+<dir>
+        <title>Disney XD</title>
+
+        <tmdb>network/shows/44</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Disney XD</summary>
+
+</dir>
+
+<dir>
+        <title>Disney Classic Collection</title>
+
+        <tmdb>list/338</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart>http://az616578.vo.msecnd.net/files/2016/07/31/6360558906421567551761544958_maxresdefault-11-adult-jokes-you-probably-missed-in-your-favorite-kid-movies-jpeg-123100.jpg</fanart>
+		
+		<summary>Disney Classic Collection</summary>
+
+</dir>
+
+<dir>
+        <title>Disney Channel</title>
+
+        <tmdb>network/shows/54</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Disney Channel</summary>
+
+</dir>
+
+
+<dir>
+        <title>Fox Kids</title>
+
+        <tmdb>network/shows/86</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Fox Kids</summary>
+
+</dir>
+
+<dir>
+<title>Furry Friends</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-furry/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+
+<dir>
+        <title>Kids' WB</title>
+
+        <tmdb>network/shows/79</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Kids' WB</summary>
+
+</dir>
+
+<dir>
+<title>Kids Animated</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Kids Live Action</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-live-action/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Roald Dahl Movies</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Studio Ghibli</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-ghibli-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+    <name>World of Disney</name>
+ 
+    <link>file://formats/Disney.xml</link>
+          
+          
+    <thumbnail></thumbnail>
+          
+          
+    <fanart></fanart>
+        
+    <summary>List of Disney movies by years</summary>
+ 
+</dir>
+</xml>

@@ -1,0 +1,156 @@
+<dir>
+        <title>AFI's 100 Most Thrilling American Films</title>
+
+        <tmdb>list/43</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Part of the AFI 100 Years… series, AFI's 100 Years…100 Thrills is a list of the top 100 heart-pounding movies in American cinema. The list was unveiled by the American Film Institute on June 12, 2001, during a CBS special hosted by Harrison Ford.</summary>
+
+</dir>
+<dir>
+      <title>Cosa Nostra, Bloods, Crips and Mexican Mafia Mob Movies</title>
+      <trakt>https://api.trakt.tv/users/elmodee/lists/</trakt>
+	  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+        <name>Chick Flicks</name>
+
+        <link>file://formats/Chicks.xml</link>
+          
+          
+        <thumbnail></thumbnail>
+          
+          
+        <fanart></fanart>
+        
+		<summary>Movies for the woman of the house</summary>
+
+</dir>
+
+<dir>
+        <title>Horror or Thriller Films</title>
+
+        <tmdb>list/44</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Not all strictly science-fiction, this is still a good list of a lot of movies for those who enjoy the science-fiction genre.</summary>
+
+</dir>
+
+<dir>
+        <title>Kung Fu movies</title>
+
+        <link>file://formats/kung fu.xml</link>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary></summary>
+
+</dir>
+
+<dir>
+      <title>IMDB: 250 Top Rated Movies</title>
+      <trakt>https://api.trakt.tv/users/justin/lists/</trakt>
+	  <thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+</dir>
+
+<dir>
+      <title>Rotten Tomatoes: Best of 2017</title>
+      <trakt>https://api.trakt.tv/users/lish408/lists/</trakt>
+	  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY63lvryluQluzrQeW9RjNG6E4T0mcgGeM1elj4nY4MU4nqpqF</thumbnail>
+</dir>
+
+<dir>
+      <title>Rotten Tomatoes: Best Horror Movies of All Time</title>
+      <trakt>https://api.trakt.tv/users/blackstar3000/lists/</trakt>
+	  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY63lvryluQluzrQeW9RjNG6E4T0mcgGeM1elj4nY4MU4nqpqF</thumbnail>
+</dir>
+
+<dir>
+        <title>Science Fiction</title>
+
+        <tmdb>list/3945</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Not all strictly science-fiction, this is still a good list of a lot of movies for those who enjoy the science-fiction genre.</summary>
+
+</dir>
+
+<dir>
+        <title>Top 50 Grossing Films of All Time (Worldwide)</title>
+
+        <tmdb>list/10</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Name pretty much says it all, here's the top 50 grossing films of all time.</summary>
+
+</dir>
+
+<dir>
+        <title>The Golden Globes</title>
+
+        <tmdb>list/2469</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart>http://cimg.tvgcdn.net/i/2017/01/04/d672091b-dba2-4fb1-b740-83e20c8c2944/goldenglobe-news.jpg</fanart>
+		
+		<summary>Best Picture Winners</summary>
+
+</dir>
+
+<dir>
+        <title>Westerns</title>
+
+        <tmdb>list/1134</tmdb>
+          
+        <animated_thumbnail></animated_thumbnail>
+          
+        <thumbnail></thumbnail>
+          
+        <animated_fanart></animated_fanart>
+          
+        <fanart></fanart>
+		
+		<summary>Quite simple, really - it's my favourite westerns, in a very liquid, ever-shifting order.</summary>
+
+</dir>

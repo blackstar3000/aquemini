@@ -1,0 +1,5 @@
+
+
+Thank you to @midraal and the entire NaN team for creating such an amazing framework and allowing the entire
+Kodi community access.
+Add thanks to DandyMedia for the AutoView code which i Added.

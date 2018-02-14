@@ -1,0 +1,84 @@
+<dir>
+      <title>[COLOR=gold]Authorize Trakt[/COLOR]</title>
+      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+	  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn9Yl8fXqOoKWv-YkSZwc46nE9veLCnEm6AqOYkrqQzTHX0RleA</thumbnail>
+	  <summary>Link Your Trakt Account</summary>
+</dir>
+
+<xml>
+  <dir>
+    <title>People Watching</title>
+    <trakt>https://api.trakt.tv/movies/watched</trakt>
+    <thumbnail></thumbnail>
+    <summary>Watched Movies</summary>
+  </dir>
+
+  <dir>
+    <title>Trending Movies</title>
+    <trakt>https://api.trakt.tv/movies/trending</trakt>
+    <thumbnail></thumbnail>
+    <summary>Trending Movies</summary>
+  </dir>
+
+  <dir>
+    <title>Popular Movies</title>
+    <trakt>https://api.trakt.tv/movies/popular</trakt>
+    <thumbnail></thumbnail>
+    <summary>Popular Movies</summary>
+  </dir>
+
+  <dir>
+    <title>Trending TV Shows</title>
+    <trakt>https://api.trakt.tv/shows/trending</trakt>
+    <thumbnail></thumbnail>
+    <summary>Trending TV Shows</summary>
+  </dir>
+
+  <dir>
+    <title>Popular TV Shows</title>
+    <trakt>https://api.trakt.tv/shows/popular</trakt>
+    <thumbnail></thumbnail>
+    <summary>Popular TV Shows</summary>
+  </dir>
+
+  <dir>
+    <title>Collected TV Shows</title>
+    <trakt>https://api.trakt.tv/shows/collected/weekly</trakt>
+    <thumbnail></thumbnail>
+    <summary>Collected TV Shows</summary>
+  </dir>
+
+  <dir>
+      <title>My lists</title>
+      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+      <thumbnail></thumbnail>
+      <summary>Your Trakt Lists</summary>
+  </dir>
+
+  <dir>
+      <title>My Liked Lists</title>
+      <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+      <thumbnail></thumbnail>
+      <summary>Your Liked Lists</summary>
+  </dir>
+</xml>
+
+<dir>
+  <title>Movie Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+
+<dir>
+  <title>Movie Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+</dir>
+
+<dir>
+  <title>TV Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+</dir>
+
+<dir>
+  <title>TV Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+</dir>

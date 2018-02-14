@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.aquemini" name="[COLOR=gold]Aquemini[/COLOR]" version="0.0.1" provider-name="[COLOR=gold]Boss[/COLOR]">
+	<extension point="xbmc.addon.repository" name="Aquemini">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Aquemini</summary>
+		<description lang="en">Aquemini Or You An OutKast...</description>
+		<genre>movies,music</genre>
+	</extension>
+</addon>

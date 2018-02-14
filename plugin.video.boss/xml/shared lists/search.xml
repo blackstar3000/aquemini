@@ -1,0 +1,39 @@
+<xml>
+
+<dir>
+        <title>[COLOR=gold]Search [COLOR=lightgreen]TMDB[/COLOR] For A Movie - TV Show - People[/COLOR]</title>
+
+        <tmdb>search</tmdb>
+          
+          
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6e/Tmdb-312x276-logo.png</thumbnail>
+          
+          
+        <fanart></fanart>
+        
+		<summary>TMDB Search</summary>
+
+</dir>
+
+<dir>
+        <title>[COLOR=gold]Search [COLOR=red]Trakt[/COLOR] For A Movie - TV Show - People[/COLOR]</title>
+
+        <trakt>search</trakt>
+          
+          
+        <thumbnail>https://trakt.tv/assets/logos/header@2x-56e5ba415108fa367fd64e5b5df9d0c5.png</thumbnail>
+          
+          
+        <fanart></fanart>
+        
+		<summary>Trakt Search</summary>
+
+</dir>
+
+<dir>
+		<title>[COLOR=gold]Search [COLOR=red]IMDB[/COLOR] For A Movie[/COLOR]</title>
+		<imdburl>searchboth</imdburl>
+		<thumbnail>https://trakt.tv/assets/lists/imdb/logo-58dce03006c42efa30725b1aa83d38a6.png</thumbnail>
+		<summary>IMDB Search</summary>
+</dir>
+</xml>

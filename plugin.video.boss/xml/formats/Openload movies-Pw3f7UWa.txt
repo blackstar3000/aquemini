@@ -1,0 +1,40 @@
+<item>
+<name>____________________________________________________________________</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<summary></summary>
+</item>
+ 
+<item>
+<name>[COLORblue]Openload Movies[/COLOR] - [COLORyellow]Pair Your Device Before Playing[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<summary></summary>
+</item>
+ 
+<item>
+<name>____________________________________________________________________</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<summary></summary>
+</item>
+
+<item>
+<title>Bleeding Steel (2017) EngSub</title>
+<meta>
+<content>movie</content>
+<imdb>tt5813366</imdb>
+<title>Bleeding Steel</title>
+<year>2017</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>https://openload.io/embed/L6VYds6KHps</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/x8kbeiqXFJc5RIAShyZMYAv8VCq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/I2eZDSUe6rPNtaSUf4MG9hPwES.jpg</fanart>
+</item>

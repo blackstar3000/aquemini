@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.boss" name="[COLOR=gold]BOSS[/COLOR]" version="1.9" provider-name="BOSS,midraal">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.resolveurl" version="5.0.06" optional="true" />
+		<import addon="script.module.urlresolver.xxx"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Like A [COLOR=gold]BOSS![/COLOR] Boss Movies,Tv Shows, Kids And much more...</summary>
+        <description lang="en">Like A [COLOR=gold]BOSS![/COLOR]Powered BY Jen</description>
+		<disclaimer lang="en">[COLOR=red]I Do Not OWN or Host Any Content Found in this Addon[/COLOR]</disclaimer>
+        <platform>all</platform>
+        <assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>		
+		<news>V1.5</news>
+        <website>www.noobsandnerds.com</website>
+        <video_guide>xtOqLY5PJDY</video_guide>
+    </extension>
+</addon>
