@@ -10,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-The London
-https://cdn.baddiehub.com/MLonN.mp4
-# Header 1
+
+
+# The London
 ## Header 2
 ### Header 3
 
@@ -24,7 +24,7 @@ https://cdn.baddiehub.com/MLonN.mp4
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://cdn.baddiehub.com/MLonN.mp4) and ![Image](https://baddiehub.com/wp-content/uploads/2020/12/MV3-613x360.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
