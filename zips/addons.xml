@@ -90,12 +90,12 @@
 	<extension point="xbmc.addon.repository" name="Aquemini">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<checksum>http://bossgameent.42web.io/repo/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/blackstar3000/repository.aquemini/master/zips/</datadir>
+		<info compressed="false">http://bossgameent.42web.io/repo/zips/addons.xmlml</info>
+		<checksum>http://bossgameent.42web.io/repo/zips/addons.xml.md5</checksum>
+		<datadir zip="true">http://bossgameent.42web.io/repo/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Aquemini</summary>
